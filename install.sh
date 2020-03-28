@@ -4,7 +4,7 @@
 # Last update: October 1, 2019
 #
 # Instructions:
-# 	run this script to install the  directories and scripts
+# 	run this script w/ 'sudo' to install the  directories and scripts
 #
 # Notes:
 #	/etc/lightdm/securityBreaches is the directory of all footage of malicious activity
